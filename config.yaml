@@ -1,0 +1,13 @@
+data:
+  augmentation:
+    resize: 224
+    normalize:
+      mean: 0
+      std: 1.0
+
+model:
+  name: resnet18
+
+device: 'cuda'
+
+
