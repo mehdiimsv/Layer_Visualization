@@ -10,6 +10,8 @@ This Project get image and model name as input and visualizes output of each lay
 
 ### Installation:
 - `pip install -r requirements.txt`
+- torch==1.12.1+cu113
+- torchvision==0.13.1
 ---
 ### How to run :
 After installing, it's dependency just run following code in your terminal :
