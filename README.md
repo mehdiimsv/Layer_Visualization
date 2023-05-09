@@ -1,4 +1,4 @@
-# Layer_Visualization
+# Convolution Layer Visualization in Resnet Models
 Test Project for Layer Visualization in Deep Learning Models
 
 # Title: Layer Visualization
