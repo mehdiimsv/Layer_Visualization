@@ -1,10 +1,10 @@
 # Convolution Layer Visualization in Resnet Models
-Test Project for Layer Visualization in Deep Learning Models
+Layer Visualization in Resnet Models
 
 # Title: Layer Visualization
 
 ### Description:
-This Project get image and model name as input and visualizes output of each layer of model in a file named "feature_maps.jpg".
+This Project get image and Resnet version model name as inputs and visualizes output of each layer of model in a image file named "feature_maps.jpg".
 
 ---
 
